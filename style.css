@@ -1,0 +1,126 @@
+*{
+  margin: 0;
+  padding: 0; 
+  max-width: 1200px;
+
+}
+.shamim::before{
+    content: "LFWF Academy";
+    color: white;
+    margin-top: 40px;
+    font-size: 18px;
+}
+.shamim{
+    background-color: #01EEBB;
+}
+.shamim ul li {
+    display: inline-block;
+    
+}
+.shamim ul{
+    text-align: right;
+}
+.shamim ul li a{
+    color: azure;
+    text-decoration: none;
+    padding: 20px 30px;
+    display: inline-block;
+    
+}
+.ss{
+    text-align: center;
+}
+img{
+    width: 2000px;
+}
+.shamim1{
+    color: white;
+    text-align: center;
+   
+    line-height: 50px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cox%27s_Bazar_Sunset.JPG/1280px-Cox%27s_Bazar_Sunset.JPG);
+    height: 500px;
+    background-size: cover;
+    
+}
+.app{
+    margin-top: 200px;
+    display: inline-block
+    
+}
+.ass{
+    font-size: 40px;
+}
+span{
+    
+    padding: 5px;
+    border-radius: 5px 5px 5px 5px;
+    margin-top: 30px;
+    height: 40px;
+    width: 160px;
+}
+.as{
+    color: #01EEBB;
+    font-size: 35px;
+}
+.service{
+    margin-top: 70px;
+}
+.ser{
+    margin-top: 40px;
+    margin-left: 100px;
+    width: 200px;
+    text-align: center;
+    float: left;
+}
+
+.lin{
+    background-color: #01EEBB;
+    height: 3px;
+    width: 1200px;
+}
+.about{
+    margin-top: 300px;
+    
+    line-height: 40px;
+}
+
+/* img{
+    height: 130px;
+    width: 200px;
+    text-align: right;
+    margin-left: 40px;
+    float: left;
+} */
+
+img{
+    float: left;
+    height: 220px;
+    width: 250px;
+    margin-left: 40px;
+}
+.la{
+    margin-top: 8px;
+    margin-left: 20px;
+}
+
+.contact{
+    margin-top: 60px;
+    background-color: #bdc3c7;
+    
+}
+.loc{
+    
+    float: left;
+    margin-left: 40px;
+    
+}
+
+.als{
+    background-color: #01EEBB;
+   
+}
+
+.lo{
+    float: left;
+}
