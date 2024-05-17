@@ -2,14 +2,15 @@
   margin: 0;
   padding: 0; 
   max-width: 1200px;
+  margin: auto;
 
 }
-.shamim::before{
-    content: "LFWF Academy";
-    color: white;
-    margin-top: 40px;
-    font-size: 18px;
-}
+ .texttlef a{
+    height: auto;
+    color: aliceblue;
+ text-decoration: none;
+
+ }
 .shamim{
     background-color: #01EEBB;
 }
@@ -19,7 +20,7 @@
 }
 .shamim ul{
     text-align: right;
-}
+}  
 .shamim ul li a{
     color: azure;
     text-decoration: none;
@@ -38,7 +39,9 @@ img{
     text-align: center;
    
     line-height: 50px;
-    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cox%27s_Bazar_Sunset.JPG/1280px-Cox%27s_Bazar_Sunset.JPG);
+    background-image: url(https://ibb.co/YDVF3Jz);
+    background-image: url(https://numero.twic.pics/images/article/homepage/full/push-cover-wiz-khalifa-tyga-single-contact-numero-magazine.jpg?twic=v1/quality=83/truecolor=true/output=jpeg/focus=800x395/cover=16:9/resize=900);
+   
     height: 500px;
     background-size: cover;
     
@@ -79,48 +82,102 @@ span{
     height: 3px;
     width: 1200px;
 }
-.about{
-    margin-top: 300px;
-    
-    line-height: 40px;
-}
+ /* about part */
 
-/* img{
-    height: 130px;
-    width: 200px;
-    text-align: right;
-    margin-left: 40px;
-    float: left;
-} */
-
-img{
-    float: left;
-    height: 220px;
-    width: 250px;
-    margin-left: 40px;
-}
-.la{
-    margin-top: 8px;
-    margin-left: 20px;
-}
-
-.contact{
-    margin-top: 60px;
-    background-color: #bdc3c7;
-    
-}
-.loc{
-    
-    float: left;
-    margin-left: 40px;
-    
-}
-
-.als{
+ .kali{
+    height: 2px;
+    width: 1200px;
     background-color: #01EEBB;
-   
-}
+   margin-top: 40px;
+ 
+ }
 
-.lo{
-    float: left;
-}
+ .als{
+    color: #01EEBB;
+    background-color: #34495e;
+    border-radius: 8px 0px 8px 0px;
+    
+ }
+ .about .fast {
+    margin-top: 100px;
+ }
+ .img img{
+    height: 220px;
+    width: 380px;
+    margin-left: 30px;
+   
+ }
+ .mr{
+    margin-bottom: 20px ;
+ }
+ .me2{
+    margin-left: 20px;
+ }
+ .tree{
+    width: 600px;
+    margin-left: 32px;
+    
+ }
+ .cox{
+    display: flex;
+    margin-top: 50px; 
+ }
+
+ /* contact us */
+ .contack{
+    background-color: #ecf0f1;
+    padding:  1px;
+    padding-bottom: 40px;
+ }
+ .helf{
+    text-align: center;
+    display: flex;
+    margin-left: 330px;
+    margin-top: 40px;
+ }
+
+ /* .me2{
+    margin-left: 80px;
+ } */
+ .loc{
+    line-height: 25px;
+ }
+
+ /* font awesom */
+ .logo6{
+   
+ }
+ .logo6 ul{
+    /* text-align: center; */
+    padding: 0px 40px;
+     
+ }
+ 
+ .container{
+    background-color: #01EEBB;
+    display: flex;
+    padding: 15px;
+     
+ }
+
+ .logo6{
+    margin-left: 40px;
+    color: aliceblue;
+    margin:  auto;
+    font-size: 15px;
+ } 
+ .rere{
+    margin-left: 13px;
+ }
+
+ 
+ .lastconta{
+    background-color: #34495e;
+    padding: 8px;
+ }
+
+ .lastconta h4{
+color: aliceblue;
+text-align: center;
+font-size: 10px;
+ }

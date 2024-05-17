@@ -1,0 +1,11 @@
+@media (max-widgh:749) {
+    .texttlef a{
+        text-align: center;
+        color: black;
+    
+     }
+     .shamim ul li a{
+         width: 100%;
+         text-align: center;
+    }
+}
